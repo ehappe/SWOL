@@ -3,16 +3,16 @@
     <!-- These settings headers are only used on tablets. -->
 
     <header
-        android:fragment="de.skubware.opentraining.activity.settings.SettingsActivity$TrainingTimerPreferenceFragment"
+        android:fragment="com.shredware.swol.activity.settings.SettingsActivity$TrainingTimerPreferenceFragment"
         android:title="@string/pref_header_training_timer" />    
     <header
-        android:fragment="de.skubware.opentraining.activity.settings.SettingsActivity$LicensePreferenceFragment"
+        android:fragment="com.shredware.swol.activity.settings.SettingsActivity$LicensePreferenceFragment"
         android:title="@string/pref_header_licenses" />
     <header
-        android:fragment="de.skubware.opentraining.activity.settings.SettingsActivity$SyncPreferenceFragment"
+        android:fragment="com.shredware.swol.activity.settings.SettingsActivity$SyncPreferenceFragment"
         android:title="@string/pref_header_sync_settings" />
     <header
-        android:fragment="de.skubware.opentraining.activity.settings.SettingsActivity$MiscellaneousPreferenceFragment"
+        android:fragment="com.shredware.swol.activity.settings.SettingsActivity$MiscellaneousPreferenceFragment"
         android:title="@string/pref_header_miscellaneous_settings" />
 
 </preference-headers>

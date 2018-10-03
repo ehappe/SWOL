@@ -22,7 +22,7 @@
 
     <fragment
         android:id="@+id/exercisetype_list"
-        android:name="de.skubware.opentraining.activity.create_workout.ExerciseTypeListFragment"
+        android:name="com.shredware.swol.activity.create_workout.ExerciseTypeListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1"
