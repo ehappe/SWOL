@@ -22,7 +22,7 @@
    width="50.742821">
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -373,7 +373,7 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="#ffffff"
+         lighting-color="#fffff0"
          surfaceScale="-2"
          specularConstant="1.5"
          specularExponent="35"
@@ -1795,7 +1795,7 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="#ffffff"
+         lighting-color="#fffff0"
          surfaceScale="1"
          specularConstant="1.5"
          specularExponent="45"
@@ -2655,7 +2655,7 @@
        transform="matrix(0.15112246,0,0,0.10608957,313.82165,-21.063943)"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.03976929;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#fffff0;stroke-width:1.03976929;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 393.58598,-17.545128 -13.42113,8.0352259 0,18.3367297 39.85196,0 0,-26.3708716 z"
        id="rect4231"
        inkscape:export-filename="C:\Users\Christian\Desktop\Dropbox\workspace\TPApp\res\drawable\ic_launcher.png"
@@ -2748,7 +2748,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4380-4"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000605;fill-opacity:1;stroke:#ffffff;stroke-width:0.59664381;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4360);font-family:TSCu_Comic;-inkscape-font-specification:TSCu_Comic"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000605;fill-opacity:1;stroke:#fffff0;stroke-width:0.59664381;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4360);font-family:TSCu_Comic;-inkscape-font-specification:TSCu_Comic"
        transform="matrix(1.0583267,0.00382175,-0.01234143,1.0323156,54.180371,-149.20047)"
        inkscape:export-filename="C:\Users\Christian\Desktop\Dropbox\workspace\TPApp\res\drawable\ic_launcher.png"
        inkscape:export-xdpi="15.904957"
@@ -2759,10 +2759,10 @@
            height="49.270443"
            x="311.06183"
            y="128.48242"
-           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000605;fill-opacity:1;stroke:#ffffff;stroke-width:0.59664381;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:TSCu_Comic;-inkscape-font-specification:TSCu_Comic"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000605;fill-opacity:1;stroke:#fffff0;stroke-width:0.59664381;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:TSCu_Comic;-inkscape-font-specification:TSCu_Comic"
            ry="0" /></flowRegion><flowPara
          id="flowPara4386-8"
-         style="font-size:25.18973351px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke:#ffffff;stroke-width:0.59664381;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Keter YG;-inkscape-font-specification:Keter YG Bold">OT</flowPara></flowRoot>    <path
+         style="font-size:25.18973351px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;stroke:#fffff0;stroke-width:0.59664381;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Keter YG;-inkscape-font-specification:Keter YG Bold">OT</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        style="opacity:0.8;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4254)"
        d="m 525.89376,124.77553 c 3.05234,-41.006655 4.42929,-47.625043 5.11639,-106.352432 L 424.54569,93.572835 z"
@@ -2774,7 +2774,7 @@
        transform="matrix(0.12472991,0,0,0.12472991,327.88206,-19.606946)" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.03525829;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#fffff0;stroke-width:1.03525829;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        d="m 391.98564,-7.3433056 1.37963,-10.0980574 -13.22265,8.0694545 z"
        id="rect4231-0-9"
        sodipodi:nodetypes="cccc"

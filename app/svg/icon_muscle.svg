@@ -161,7 +161,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -210,7 +210,7 @@
      id="layer1"
      transform="translate(-323.55293,-407.38755)">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       style="fill:#fffff0;fill-opacity:1;stroke:none"
        d="m 328.23938,419.39463 3.31976,1.06409 1.11267,-1.34214 0.965,-0.37619 1.43114,0.17174 1.33913,1.35141 0.68491,-4.65122 -1.15367,-3.01222 -1.01386,0.68648 -2.06947,0.13309 -1.67886,-0.94114 0.20675,-3.1518 1.53835,-0.73558 2.5983,-0.39816 1.9703,0.78233 0.75997,1.46928 1.13616,2.22165 2.34649,3.44834 1.40248,2.59759 0.87814,3.91883 -0.39714,1.08855 -4.36906,2.43089 -5.32195,1.58629 -5.57105,-4.77568 z"
        id="rect3806"
        inkscape:connector-curvature="0"

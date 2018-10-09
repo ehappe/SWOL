@@ -144,7 +144,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -206,7 +206,7 @@
        x="324.71704"
        y="398.87903" />
     <path
-       style="fill:#8f8f8f;fill-opacity:1;stroke:#ffffff;stroke-width:12.07983017;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3127)"
+       style="fill:#8f8f8f;fill-opacity:1;stroke:#fffff0;stroke-width:12.07983017;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3127)"
        d="m 416.38111,350.99657 -62.125,62.34375 85.40625,-0.125 c -0.0421,52.22117 -42.39986,94.52518 -94.625,94.5 -31.28368,-0.0151 -59.01373,-15.21539 -76.21875,-38.625 l -2.86332,-3.56911 -57.23043,55.00661 c 31.77103,40.28089 80.99956,66.16084 136.28125,66.1875 95.86084,0.0462 173.61002,-77.63916 173.65625,-173.5 2e-5,-0.0416 10e-6,-0.0834 0,-0.125 l 70.53125,-0.125 -108.28125,-107.90625 -8.5631,-7.6483 z"
        id="path3057"
        inkscape:connector-curvature="0"
@@ -217,7 +217,7 @@
        inkscape:connector-curvature="0"
        id="path3101"
        d="m 264.35967,466.96455 62.125,-62.34375 -85.40625,0.125 c 0.0421,-52.22117 42.39986,-94.52518 94.625,-94.5 31.28368,0.0151 59.01373,15.21539 76.21875,38.625 l 2.70083,3.82135 57.58232,-55.13258 c -31.77103,-40.28089 -81.18896,-66.28711 -136.47065,-66.31377 -95.86084,-0.0462 -173.61002,77.63916 -173.65625,173.5 -2e-5,0.0416 -1e-5,0.0834 0,0.125 l -70.531249,0.125 108.281249,107.90625 8.5631,7.6483 z"
-       style="fill:#8f8f8f;fill-opacity:1;stroke:#ffffff;stroke-width:12.07983028;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3127)"
+       style="fill:#8f8f8f;fill-opacity:1;stroke:#fffff0;stroke-width:12.07983028;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3127)"
        transform="matrix(0.04139131,0,0,0.04139131,320.67401,402.59431)" />
   </g>
 </svg>

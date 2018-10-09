@@ -82,7 +82,7 @@
          id="g3405"
          transform="translate(9,-7)">
         <path
-           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#fffff0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
            d="M -8.5,7.5 L -8.5,15.5"
            id="path3401" />
         <path
@@ -101,7 +101,7 @@
          id="g3382"
          transform="translate(8.5,-7.5)">
         <path
-           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#fffff0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
            d="M -7,8 L -7,12"
            id="path3370"
            sodipodi:nodetypes="cc" />
@@ -115,7 +115,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"

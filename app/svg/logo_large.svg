@@ -646,7 +646,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -723,7 +723,7 @@
        id="text5634-0-8-1-9"
        y="636.31317"
        x="1163.2081"
-       style="font-size:113.16850281px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Stencil Std;-inkscape-font-specification:Stencil Std Bold"
+       style="font-size:113.16850281px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fffff0;fill-opacity:1;stroke:none;font-family:Stencil Std;-inkscape-font-specification:Stencil Std Bold"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\Christian\Desktop\Dropbox\workspace\TPApp\res\drawable\logo.png"
        inkscape:export-xdpi="75.402817"
@@ -731,38 +731,38 @@
          y="636.31317"
          x="1163.2081"
          sodipodi:role="line"
-         style="text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         style="text-align:center;text-anchor:middle;fill:#fffff0;fill-opacity:1;stroke:none"
          id="tspan3139-5">opentraining</tspan></text>
     <g
        id="g4323-7"
        transform="matrix(1.0759751,0,0,1.0759751,-274.51547,-198.67114)"
-       style="fill:#ffffff;fill-opacity:1">
+       style="fill:#fffff0;fill-opacity:1">
       <g
          inkscape:label="Layer 1"
          id="layer1-0-3"
          transform="matrix(0.96298766,0,0,0.96298766,930.00888,772.53)"
-         style="fill:#ffffff;fill-opacity:1">
+         style="fill:#fffff0;fill-opacity:1">
         <g
            id="g4956-9"
-           style="fill:#ffffff;fill-opacity:1">
+           style="fill:#fffff0;fill-opacity:1">
           <path
              inkscape:connector-curvature="0"
              id="rect4920-5"
              d="m 159.75,52.348217 0,108.593753 23.40625,0 0,-108.593753 -23.40625,0 z m 456.625,0 0,108.593753 23.4375,0 0,-108.593753 -23.4375,0 z m -478.71875,12.78125 0,83.031253 17.03125,0 0,-83.031253 -17.03125,0 z m 50.5625,0 0,83.031253 17.03125,0 0,-83.031253 -17.03125,0 z m 406.09375,0 0,83.031253 17.03125,0 0,-83.031253 -17.03125,0 z m 50.5625,0 0,83.031253 17.03125,0 0,-83.031253 -17.03125,0 z m -550.59375,31.9375 0,19.156253 38.3125,0 0,-19.156253 -38.3125,0 z m 116.03125,0 0,19.156253 378.9375,0 0,-19.156253 -378.9375,0 z m 456.625,0 0,19.156253 38.34375,0 0,-19.156253 -38.34375,0 z"
-             style="opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4952-1)" />
+             style="opacity:0.7;fill:#fffff0;fill-opacity:1;stroke:none;filter:url(#filter4952-1)" />
           <g
              transform="matrix(0.74509803,0,0,0.74509803,132.61035,-139.93289)"
              id="g4907-4"
-             style="fill:#ffffff;fill-opacity:1">
+             style="fill:#fffff0;fill-opacity:1">
             <rect
-               style="fill:#ffffff;fill-opacity:1;stroke:none"
+               style="fill:#fffff0;fill-opacity:1;stroke:none"
                id="rect4381-1"
                width="508.57144"
                height="25.714285"
                x="104.28571"
                y="318.07648" />
             <rect
-               style="fill:#ffffff;fill-opacity:1;stroke:none"
+               style="fill:#fffff0;fill-opacity:1;stroke:none"
                id="rect4891-1"
                width="31.428572"
                height="145.71428"
@@ -774,9 +774,9 @@
                height="111.42857"
                width="22.857143"
                id="rect4893-2"
-               style="fill:#ffffff;fill-opacity:1;stroke:none" />
+               style="fill:#fffff0;fill-opacity:1;stroke:none" />
             <rect
-               style="fill:#ffffff;fill-opacity:1;stroke:none"
+               style="fill:#fffff0;fill-opacity:1;stroke:none"
                id="rect4895-3"
                width="22.857143"
                height="111.42857"
@@ -788,16 +788,16 @@
                height="25.714285"
                width="51.428585"
                id="rect4897-7"
-               style="fill:#ffffff;fill-opacity:1;stroke:none" />
+               style="fill:#fffff0;fill-opacity:1;stroke:none" />
             <rect
                y="258.07648"
                x="649.28577"
                height="145.71428"
                width="31.428572"
                id="rect4899-0"
-               style="fill:#ffffff;fill-opacity:1;stroke:none" />
+               style="fill:#fffff0;fill-opacity:1;stroke:none" />
             <rect
-               style="fill:#ffffff;fill-opacity:1;stroke:none"
+               style="fill:#fffff0;fill-opacity:1;stroke:none"
                id="rect4901-9"
                width="22.857143"
                height="111.42857"
@@ -809,9 +809,9 @@
                height="111.42857"
                width="22.857143"
                id="rect4903-4"
-               style="fill:#ffffff;fill-opacity:1;stroke:none" />
+               style="fill:#fffff0;fill-opacity:1;stroke:none" />
             <rect
-               style="fill:#ffffff;fill-opacity:1;stroke:none"
+               style="fill:#fffff0;fill-opacity:1;stroke:none"
                id="rect4905-6"
                width="51.428585"
                height="25.714285"

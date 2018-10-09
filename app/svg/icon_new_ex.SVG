@@ -174,11 +174,11 @@
     <linearGradient
        id="linearGradient1501">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         style="stop-color:#fffff0;stop-opacity:1.0000000;"
          offset="0.0000000"
          id="stop1502" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.0000000;"
+         style="stop-color:#fffff0;stop-opacity:0.0000000;"
          offset="1.0000000"
          id="stop1504" />
     </linearGradient>
@@ -257,11 +257,11 @@
     <linearGradient
        id="linearGradient841">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         style="stop-color:#fffff0;stop-opacity:1.0000000;"
          offset="0.00000000"
          id="stop842" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.00000000;"
+         style="stop-color:#fffff0;stop-opacity:0.00000000;"
          offset="1.0000000"
          id="stop843" />
     </linearGradient>
@@ -314,7 +314,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -368,7 +368,7 @@
        id="g1694"
        transform="matrix(0.15253066,0,0,0.15253066,335.14443,405.74063)">
       <path
-         style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.42649043;stroke-opacity:0.36477984"
+         style="fill:#fffff0;fill-rule:evenodd;stroke-width:0.42649043;stroke-opacity:0.36477984"
          sodipodi:nodetypes="cccccccccccccccc"
          id="path930"
          d="m 17.159384,6.3292894 0,36.7392366 0,36.739242 0,36.739232 0,36.73924 33.52764,0 33.52764,0 33.527636,0 33.52764,0 0,-36.73924 0,-36.739232 0,-36.739242 -33.52764,-36.7392366 -33.527636,0 -33.52764,0 -33.52764,0 z"

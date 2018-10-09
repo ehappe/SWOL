@@ -41,7 +41,7 @@ import android.widget.ArrayAdapter;
 public class ExerciseTypeListAdapter extends ArrayAdapter<ExerciseType>{
 	private Workout mWorkout;
 	private List<ExerciseType> mExercisesInWorkoutList = new ArrayList<ExerciseType>();
-	
+
 	public ExerciseTypeListAdapter(Activity context, int resource, int textViewResourceId,
 			List<ExerciseType> exerciseList) {
 		super(context, resource, textViewResourceId, exerciseList);
@@ -64,8 +64,6 @@ public class ExerciseTypeListAdapter extends ArrayAdapter<ExerciseType>{
 		return true;
 	}
 
-	
-	
 	@Override
 	public boolean isEnabled(int position) {
 		// return false, if already added to workout
@@ -73,7 +71,6 @@ public class ExerciseTypeListAdapter extends ArrayAdapter<ExerciseType>{
 			return false;
 		return true;	
 	}
-
 	
 	public void updateWorkout() {
 		mWorkout = ((ExerciseTypeListActivity) getContext()).getWorkout();
@@ -92,6 +89,4 @@ public class ExerciseTypeListAdapter extends ArrayAdapter<ExerciseType>{
 		updateWorkout();
 		super.notifyDataSetChanged();
 	}
-	
-
 }

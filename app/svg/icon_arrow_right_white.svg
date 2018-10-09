@@ -54,7 +54,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -116,7 +116,7 @@
        x="324.71704"
        y="398.87903" />
     <path
-       style="opacity:0.93000033999999998;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1"
+       style="opacity:0.93000033999999998;fill:#fffff0;fill-opacity:1;stroke:#fffff0;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1"
        d="m 329.92952,411.31654 c 2.0499,1.27849 12.56377,7.34452 13.51079,8.14435 l -13.51079,8.52316 z"
        id="rect2993"
        inkscape:connector-curvature="0"

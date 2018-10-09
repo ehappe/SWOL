@@ -15,7 +15,7 @@
     
     <!-- Exercise Detail -->
     <string name="title_exercisetype_detail">ExerciseType Detail</string>
-    <string name="title_exercisetype_list">ExerciseTypes</string>
+    <string name="title_exercisetype_list">Select Exercises</string>
     <string name="exercise_already_in_workout">You\'ve already added this exercise to your workout.</string>
     <string name="no_description_available">No description available.</string>
     
@@ -40,8 +40,8 @@
     <string name="save_workout">Save</string>
     <string name="add_more_exercises">Add more exercises</string>
     <string name="discard">"Discard</string>
-    <string name="title_exercise_detail">Exercise Detail</string>
-    <string name="title_exercise_list">Exercise</string>
+    <string name="title_exercise_detail">TODO: Get Exercise Name</string>
+    <string name="title_exercise_list">TODO: Get Workout Name</string>
     <string name="override">Override</string>
     <string name="are_you_sure">Are you sure?</string>
     <string name="really_remove_exercise">Do you really want to remove the exercise EXERCISE_NAME from Workout?</string>

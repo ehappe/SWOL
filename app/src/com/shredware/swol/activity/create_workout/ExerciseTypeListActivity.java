@@ -104,7 +104,6 @@ public class ExerciseTypeListActivity extends AppCompatActivity implements Exerc
 			// 'activated' state when touched.
 			((ExerciseTypeListFragment) getSupportFragmentManager().findFragmentById(R.id.exercisetype_list)).setActivateOnItemClick(true);
 		}
-
 	}
 
 	/**
@@ -316,7 +315,7 @@ public class ExerciseTypeListActivity extends AppCompatActivity implements Exerc
 		return mWorkout;
 	}
 
-	private SearchView setupSearchView(SearchView sv) {
+	public SearchView setupSearchView(SearchView sv) {
 
 		OnQueryTextListener listener = (ExerciseTypeListFragment) getSupportFragmentManager().findFragmentById(R.id.exercisetype_list);
 

@@ -33,7 +33,7 @@
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:zoom="1.28"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      showgrid="false"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -137,27 +137,27 @@
        inkscape:export-ydpi="199"
        inkscape:export-xdpi="199"
        inkscape:export-filename="/home/christian/Arbeitsfläche/muscle.png"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       style="fill:#fffff0;fill-opacity:1;stroke:none"
        transform="translate(-248.04517,-71.385118)"
        id="g2451-1">
       <g
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         style="fill:#fffff0;fill-opacity:1;stroke:none"
          id="g2453-6">
         <path
            d="m 300.803,131.26 c 22.551,0 40.835,-18.284 40.835,-40.8361 0,-22.551 -18.284,-40.834 -40.835,-40.834 -22.552,0 -40.834,18.283 -40.834,40.834 0,22.5521 18.282,40.8361 40.834,40.8361 z"
            id="path2455-6"
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           style="fill:#fffff0;fill-opacity:1;stroke:none"
            inkscape:connector-curvature="0" />
         <path
            d=""
            id="path2457-1"
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           style="fill:#fffff0;fill-opacity:1;stroke:none"
            inkscape:connector-curvature="0" />
       </g>
       <path
          d="m 257.105,140.273 c -28.918,0 -52.173,23.584 -52.173,53 l 0,125.375 c 0,24.375 35.673,24.375 35.673,0 l 0,-114.642 8.444,0 0,313.907 c 0,32.589 47.503,31.63 47.503,0 l 0,-182.22 8.182,0 0,182.22 c 0,31.63 47.765,32.589 47.765,0 l 0,-313.907 8.247,0 0,114.642 c 0,24.562 35.487,24.562 35.422,0 l 0,-124.625 c 0,-27.125 -21.064,-53.694 -52.814,-53.694 l -86.249,-0.056 z"
          id="path2459-6"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         style="fill:#fffff0;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <path
@@ -167,7 +167,7 @@
        inkscape:connector-curvature="0"
        id="path3786-6"
        d="m 1.6993416,320.12412 c 0,-25.67405 0.0676,-36.17707 0.15026,-23.34005 0.0826,12.83703 0.0826,33.84307 0,46.6801 -0.0827,12.83703 -0.15026,2.334 -0.15026,-23.34005 z"
-       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ff6600;fill-opacity:1;stroke:#fffff0;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        inkscape:export-ydpi="199"
        inkscape:export-xdpi="199"
@@ -175,7 +175,7 @@
        inkscape:connector-curvature="0"
        id="path3790-8"
        d="m 56.933982,311.5615 c -1.1e-4,-14.88791 0.071,-21.05782 0.15794,-13.71091 0.087,7.34691 0.0871,19.52793 1.9e-4,27.06893 -0.0869,7.541 -0.15803,1.52989 -0.15813,-13.35802 z"
-       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ff6600;fill-opacity:1;stroke:#fffff0;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        inkscape:export-ydpi="199"
        inkscape:export-xdpi="199"
@@ -183,7 +183,7 @@
        inkscape:connector-curvature="0"
        id="path3792-7"
        d="m 56.806322,300.78917 c 0,-1.06342 0.11369,-1.49846 0.25264,-0.96675 0.13895,0.53171 0.13895,1.40179 0,1.9335 -0.13895,0.53171 -0.25264,0.0967 -0.25264,-0.96675 z"
-       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ff6600;fill-opacity:1;stroke:#fffff0;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <path
        inkscape:export-ydpi="199"
        inkscape:export-xdpi="199"
@@ -191,7 +191,7 @@
        inkscape:connector-curvature="0"
        id="path3794-8"
        d=""
-       style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       style="fill:#ff6600;fill-opacity:1;stroke:#fffff0;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <text
        inkscape:export-ydpi="199"
        inkscape:export-xdpi="199"
@@ -200,9 +200,9 @@
        id="text2994-7-8"
        y="130.98445"
        x="335.04254"
-       style="font-size:49.375px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+       style="font-size:49.375px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffff0;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
        xml:space="preserve"><tspan
-         style="font-weight:500;fill:#ffffff;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
+         style="font-weight:500;fill:#fffff0;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Medium"
          y="130.98445"
          x="335.04254"
          id="tspan2996-1-6"
@@ -333,27 +333,27 @@
   <g
      id="g2451"
      transform="translate(-36.653115,-11.153201)"
-     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     style="fill:#fffff0;fill-opacity:1;stroke:none"
      inkscape:export-filename="/home/christian/Arbeitsfläche/muscle.png"
      inkscape:export-xdpi="199"
      inkscape:export-ydpi="199">
     <g
        id="g2453"
-       style="fill:#ffffff;fill-opacity:1;stroke:none">
+       style="fill:#fffff0;fill-opacity:1;stroke:none">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         style="fill:#fffff0;fill-opacity:1;stroke:none"
          id="path2455"
          d="m 300.803,131.26 c 22.551,0 40.835,-18.284 40.835,-40.8361 0,-22.551 -18.284,-40.834 -40.835,-40.834 -22.552,0 -40.834,18.283 -40.834,40.834 0,22.5521 18.282,40.8361 40.834,40.8361 z" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         style="fill:#fffff0;fill-opacity:1;stroke:none"
          id="path2457"
          d="" />
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       style="fill:#fffff0;fill-opacity:1;stroke:none"
        id="path2459"
        d="m 257.105,140.273 c -28.918,0 -52.173,23.584 -52.173,53 l 0,125.375 c 0,24.375 35.673,24.375 35.673,0 l 0,-114.642 8.444,0 0,313.907 c 0,32.589 47.503,31.63 47.503,0 l 0,-182.22 8.182,0 0,182.22 c 0,31.63 47.765,32.589 47.765,0 l 0,-313.907 8.247,0 0,114.642 c 0,24.562 35.487,24.562 35.422,0 l 0,-124.625 c 0,-27.125 -21.064,-53.694 -52.814,-53.694 l -86.249,-0.056 z" />
   </g>
@@ -430,7 +430,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#ff6600;fill-opacity:1;stroke:#fffff0;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m 213.09139,380.35604 c 0,-25.67405 0.0676,-36.17707 0.15026,-23.34005 0.0826,12.83703 0.0826,33.84307 0,46.6801 -0.0827,12.83703 -0.15026,2.334 -0.15026,-23.34005 z"
      id="path3786"
      inkscape:connector-curvature="0"
@@ -438,7 +438,7 @@
      inkscape:export-xdpi="199"
      inkscape:export-ydpi="199" />
   <path
-     style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#ff6600;fill-opacity:1;stroke:#fffff0;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m 268.32603,371.79342 c -1.1e-4,-14.88791 0.071,-21.05782 0.15794,-13.71091 0.087,7.34691 0.0871,19.52793 1.9e-4,27.06893 -0.0869,7.541 -0.15803,1.52989 -0.15813,-13.35802 z"
      id="path3790"
      inkscape:connector-curvature="0"
@@ -446,7 +446,7 @@
      inkscape:export-xdpi="199"
      inkscape:export-ydpi="199" />
   <path
-     style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#ff6600;fill-opacity:1;stroke:#fffff0;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d="m 268.19837,361.02109 c 0,-1.06342 0.11369,-1.49846 0.25264,-0.96675 0.13895,0.53171 0.13895,1.40179 0,1.9335 -0.13895,0.53171 -0.25264,0.0967 -0.25264,-0.96675 z"
      id="path3792"
      inkscape:connector-curvature="0"
@@ -454,7 +454,7 @@
      inkscape:export-xdpi="199"
      inkscape:export-ydpi="199" />
   <path
-     style="fill:#ff6600;fill-opacity:1;stroke:#ffffff;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#ff6600;fill-opacity:1;stroke:#fffff0;stroke-width:0.27621359;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      d=""
      id="path3794"
      inkscape:connector-curvature="0"
@@ -463,7 +463,7 @@
      inkscape:export-ydpi="199" />
   <text
      xml:space="preserve"
-     style="font-size:30px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+     style="font-size:30px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffff0;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
      x="546.43457"
      y="191.21637"
      id="text2994-7"
@@ -475,7 +475,7 @@
        id="tspan2996-1"
        x="546.43457"
        y="191.21637"
-       style="font-size:30px;font-weight:500;fill:#ffffff;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Medium" /></text>
+       style="font-size:30px;font-weight:500;fill:#fffff0;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Medium" /></text>
   <rect
      style="fill:#999999;fill-opacity:1;stroke:none"
      id="rect3118"
@@ -486,7 +486,7 @@
      rx="4.7829727e-16" />
   <text
      xml:space="preserve"
-     style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+     style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffff0;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
      x="361.24762"
      y="144.90576"
      id="text3120"
@@ -561,7 +561,7 @@
      rx="2.6572069e-16" />
   <text
      xml:space="preserve"
-     style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
+     style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffff0;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
      x="344.98785"
      y="473.21631"
      id="text3120-6"
@@ -581,7 +581,7 @@
        id="tspan3214"
        x="344.84137"
        y="392.95264"
-       style="font-size:30px;fill:#ffffff">Thigh</tspan></text>
+       style="font-size:30px;fill:#fffff0">Thigh</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -593,7 +593,7 @@
        id="tspan3214-9"
        x="389.14801"
        y="317.59131"
-       style="font-size:30px;fill:#ffffff">Derriere</tspan></text>
+       style="font-size:30px;fill:#fffff0">Derriere</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -607,7 +607,7 @@
        id="tspan3214-9-1"
        x="14.733963"
        y="262.51318"
-       style="font-size:30px;fill:#ffffff">Abdominal</tspan></text>
+       style="font-size:30px;fill:#fffff0">Abdominal</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -621,7 +621,7 @@
        id="tspan3214-9-1-9"
        x="51.215897"
        y="200.00586"
-       style="font-size:30px;fill:#ffffff">Chest</tspan></text>
+       style="font-size:30px;fill:#fffff0">Chest</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -635,7 +635,7 @@
        id="tspan3214-9-1-7"
        x="399.59479"
        y="183.49023"
-       style="font-size:30px;fill:#ffffff">Triceps</tspan></text>
+       style="font-size:30px;fill:#fffff0">Triceps</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -649,7 +649,7 @@
        id="tspan3214-9-1-7-9"
        x="405.45908"
        y="218.90967"
-       style="font-size:30px;fill:#ffffff">Biceps</tspan></text>
+       style="font-size:30px;fill:#fffff0">Biceps</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto"
@@ -663,5 +663,5 @@
        id="tspan3214-9-1-9-5"
        x="62.732002"
        y="157.74023"
-       style="font-size:30px;fill:#ffffff">Back</tspan></text>
+       style="font-size:30px;fill:#fffff0">Back</tspan></text>
 </svg>

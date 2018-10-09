@@ -31,7 +31,7 @@
      objecttolerance="10.0"
      borderopacity="1.0"
      bordercolor="#666666"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      id="base"
      showgrid="false"
      inkscape:zoom="2.9258656"
@@ -132,7 +132,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#fffff0;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3821-4"
      width="92.246742"
      height="81.764168"

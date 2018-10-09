@@ -81,6 +81,7 @@ dependencies {
     implementation "ch.acra:acra-toast:$acraVersion"
     implementation 'com.github.PhilJay:MPAndroidChart:v3.0.3'
     implementation 'com.nineoldandroids:library:2.4.0+'
+    implementation "com.android.support.constraint:constraint-layout:1.1.2"
 }
 
 task wrapper (type: Wrapper) { gradleVersion = "3.0.0" }

@@ -54,7 +54,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#fffff0"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
@@ -123,7 +123,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        sodipodi:type="arc"
-       style="fill:#ffffff;stroke:#000000;stroke-width:12.39999961999999911;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       style="fill:#fffff0;stroke:#000000;stroke-width:12.39999961999999911;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
        id="path3041"
        sodipodi:cx="176.15312"
        sodipodi:cy="64.062943"
@@ -133,7 +133,7 @@
        transform="matrix(0.1613317,0,0,0.1613317,307.02099,404.1436)" />
     <text
        xml:space="preserve"
-       style="font-size:8.92962551px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:8.92962551px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#fffff0;fill-opacity:1;stroke:none;font-family:Sans"
        x="330.75296"
        y="425.03848"
        id="text3829"
@@ -142,6 +142,6 @@
          id="tspan3831"
          x="330.75296"
          y="425.03848"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Roboto;-inkscape-font-specification:Roboto">kg</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#fffff0;font-family:Roboto;-inkscape-font-specification:Roboto">kg</tspan></text>
   </g>
 </svg>
